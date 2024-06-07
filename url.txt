@@ -1,0 +1,2 @@
+Dataset: https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond/data
+Hugging Face: https://huggingface.co/spaces/UdonUltra/Milestone_2
